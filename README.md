@@ -1,6 +1,6 @@
 # telecom-analysis
 
-# 📊 ConnectaTel — Análisis de Datos de Clientes
+# ConnectaTel — Análisis de Datos de Clientes
 
 ## 1. Objetivo del proyecto
 
