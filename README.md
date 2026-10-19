@@ -14,8 +14,9 @@ El proyecto utiliza conjuntos de datos que contienen información de los cliente
 
 - **Dataset de usuarios (`users`):** contiene información de los clientes, como identificador de usuario, edad, ciudad, plan contratado y fecha de cancelación del servicio.
 - **Dataset de uso (`usage`):** contiene registros relacionados con el consumo de los servicios, incluyendo identificadores de usuario, duración de llamadas y otras variables de uso.
+- **Dataset de planes contratados (`plans`):** contiene registro de planes contratados por los usuarios
 
-Ambos conjuntos de datos permiten explorar las características de los clientes y analizar sus patrones de consumo.
+Los tres  conjuntos de datos permiten explorar las características de los clientes y analizar sus patrones de consumo.
 
 
 ## 3. Etapas del análisis realizadas
@@ -61,4 +62,4 @@ Para reproducir el análisis y obtener los resultados:
 4. Revisa las tablas, estadísticas y visualizaciones generadas en cada etapa.
 5. Consulta los resultados de la segmentación y las conclusiones documentadas para comprender los hallazgos.
 
-**Importante:** Los resultados dependen de los datos utilizados y de que el notebook se ejecute correctamente. Si los datasets no están incluidos en este repositorio, será necesario obtenerlos por separado antes de reproducir el análisis.
+
